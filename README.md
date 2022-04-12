@@ -6,3 +6,4 @@ Consumes NASA's API to show the Astronomy Picture of a specific date or date ran
 ![alt text](screenshots/favourites.jpg "User favourites fetched from database")
 ![alt text](screenshots/no_internet.jpg "No internet screen with retry")
 ![alt text](screenshots/orientation.jpg "Orientation handling")
+![alt text](screenshots/search_calendar.jpg "Search by date")
